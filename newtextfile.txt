@@ -1,0 +1,3 @@
+I like git.
+It is very useful.
+It is very fun.
